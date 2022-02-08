@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there Programmers!👋
 
+Hello folks, you can call me **Erland**!
+
+🌱 I’m currently learning everything about **Machine Learning**, **Deep Learning**, **Computer Vision**, and **Artificial Intelligence**
+
+You can connect to me via [Linkedin](https://www.linkedin.com/in/erland-hilman-306a50192/)
 <!--
 **Erland366/Erland366** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
